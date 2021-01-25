@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Rghavendar Cherlagudem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Raghavendar Cherlagudem" height="30" width="40" /></a>
-<a href="https://twitter.com/Raghu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Raghu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Raghavendar Cherlagudem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Raghavendar Cherlagudem" height="30" width="40" /></a>
+<a href="https://codepen.io/raghuhhh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="raghuhhh" height="30" width="40" /></a>
+<a href="https://twitter.com/RaghuYadav118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="RaghuYadav118" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raghavendar-cherlagudem-882023186/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Raghavendar Cherlagudem" height="30" width="40" /></a>
 <a href="https://fb.com/Raghu Yadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Raghu Yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.raghu__007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.raghu__007" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/Raghu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghu" height="30" width="40" /></a>
