@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghu</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India.</h3>
+<h3 align="center">An aspiring Software Engineer.</h3>
 
-- 🌱 I’m currently learning **JS,Bootstrap,React,Django,Node.js,MERN Stack,Full Stack**
 
 - 👨‍💻 My portfolio website [https://raghuportfolio.netlify.app/](https://raghuportfolio.netlify.app/)
 
@@ -11,11 +10,10 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/raghavendar-cherlagudem-882023186/**
 
-- 📫 How to reach me **https://www.instagram.com/mr.raghu__007/?hl=en**
+- 📫 How to reach me **https://www.instagram.com/i.raghu7/?hl=en**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eT6MWcqSvXsjHtZD3Erg9fBCBm4Qp1vC/view?usp=sharing](https://drive.google.com/file/d/1eT6MWcqSvXsjHtZD3Erg9fBCBm4Qp1vC/view?usp=sharing)
+- 📄 Know about my experiences https://docs.google.com/document/d/1bhPU9CeR1NERlEO98YOD5zNOFW3O5LGV/edit?usp=sharing&ouid=116098751840902282266&rtpof=true&sd=true
 
-- ⚡ Fun fact **I Think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
